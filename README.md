@@ -7,6 +7,10 @@ forest maps, a satellite background, ΕΓΣΑ87 ↔ WGS84 coordinates and coordi
 
 ![The Cadastre tab in AutoCAD](docs/images/ribbon.png)
 
+[![Cadastre in action: neighbouring parcels, forest map, satellite background, coordinates and grid](docs/video/cadastre-demo.gif)](docs/video/cadastre-demo.mp4)
+
+▶ [Watch the full video (1:35)](docs/video/cadastre-demo.mp4)
+
 ## ⬇ [Download Cadastre-Setup.exe](https://github.com/iliasmachairas/Cadastre-CAD-Plugin/releases/latest/download/Cadastre-Setup.exe)
 
 Free · English manual included · no administrator rights needed · [all versions](https://github.com/iliasmachairas/Cadastre-CAD-Plugin/releases)
