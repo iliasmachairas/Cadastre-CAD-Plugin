@@ -5,6 +5,8 @@
 Cadastre adds a ribbon tab that brings Greek open data straight into your drawing: cadastral parcels with their ΚΑΕΚ,
 forest maps, a satellite background, ΕΓΣΑ87 ↔ WGS84 coordinates and coordinate grids.
 
+![The Cadastre tab in AutoCAD](docs/images/ribbon.png)
+
 ## ⬇ [Download Cadastre-Setup.exe](https://github.com/iliasmachairas/Cadastre-CAD-Plugin/releases/latest/download/Cadastre-Setup.exe)
 
 Free · English manual included · no administrator rights needed · [all versions](https://github.com/iliasmachairas/Cadastre-CAD-Plugin/releases)
