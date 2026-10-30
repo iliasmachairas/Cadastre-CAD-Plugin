@@ -21,7 +21,8 @@ Free · English manual included · no administrator rights needed · [all versio
 | ΕΓΣΑ87 ↔ WGS84 | `KDGRT` | Coordinates of a point in both systems, or a point placed from φ,λ |
 | Κλίμακα | `KDSCALE` | Drawing scale for text height and linetypes |
 | Κάνναβος | `KDGRID` | Coordinate grid crosses at the drawing scale |
-| Οδηγίες | `KDHELP` | Opens the manual |
+| Οδηγίες | `KDHELP` | Shows the steps and opens the manual |
+| Σχετικά | `KDABOUT` | About the tool and its author |
 
 ## Supported programs
 
